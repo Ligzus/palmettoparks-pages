@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /palmettoparks-pages/
+Sitemap: https://ligzus.github.io/palmettoparks-pages/sitemap-index.xml
