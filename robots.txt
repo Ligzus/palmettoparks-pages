@@ -1,3 +1,3 @@
+# Preview HTML carries noindex. A repository-level robots.txt does not control github.io.
 User-agent: *
-Allow: /palmettoparks-pages/
-Sitemap: https://ligzus.github.io/palmettoparks-pages/sitemap-index.xml
+Allow: /
